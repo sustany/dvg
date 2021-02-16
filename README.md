@@ -1,1 +1,1 @@
-The objective of this project is to develop a taxonomy to bridge the gab between digital solutions aiming to fascilitae human economic activity and the practical requirements needed to enforce obligations in the physical realm.
+The objective of this project is to develop a taxonomy to bridge the gab between digital solutions aiming to fascilitae human economic activity and the practical requirements needed to enforce obligations in the physical realm - i.e. "provide evidence which (legally) holds up (in there relevant jurisdiction(s)).
