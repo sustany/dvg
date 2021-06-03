@@ -3,3 +3,5 @@ Interoperability needs to necessarily start on the natural language level, movin
 The wider objective is to facilitate the development of a human-centered network (web), in which individuals regain control over the feedback mechanisms technologies provide to them.
 
 Please note: this is **not** a philosophical 'exercise' but rather a practical approach, which presupposes that a central tenet of innovation through technology is the increase of human productivity, freeing up individuals attention ([agency](https://github.com/sustany/dvg/wiki/Agency)) - measured in time - that these can (deliberately) assign to leisure activities or higher order pursuits, such as the accumulation of knowledge or wealth. 
+
+For the current state of the taxonomy the ([Wiki](https://github.com/sustany/dvg/wiki)).
