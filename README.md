@@ -2,7 +2,7 @@ The objective of this project is to develop a taxonomy and ontology to bridge th
 
 Interoperability of digital solutions need to necessarily start on the natural language level, moving to the semantic level (where necessary within the appropriate discipline), further to linguistics, and finally to high-level coding languages, and ultimately math.
 
-As such this project provides a [Wiki](https://github.com/sustany/dvg/wiki), and list of terms which require IRL definitions before creating project outlines for (decentralized) software solutions, in particular blockchains and directed acyclic graphs. To that extent we find it unhelpful to refer to these applications as protocols, as they necessarily live in true protocol environment, making use of the later (blockchains are 'protocols' in a business logic sense, but applications within network technologies).
+As such this project provides a [Wiki](https://github.com/sustany/dvg/wiki), and list of terms which require IRL definitions before creating project outlines for (decentralized) software solutions, in particular blockchains and directed acyclic graphs. To that extent we find it unhelpful to refer to these applications as protocols, as they necessarily live in true protocol environment, making use of the later (blockchains are 'protocols' in a business logic sense, but functionally are applications within network technologies).
 
 The wider objective is to facilitate the development of a human-centered network (web), in which individuals regain agency and control over the feedback mechanisms technologies provide to them.
 
